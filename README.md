@@ -1,6 +1,6 @@
 [**`What Is The Output?`**](https://istvanamolnar.github.io)
 
-[**`Code repository`**](https://gitlab.com/istvanamolnar/whatistheoutput-fe)
+[**`Code repository`**](https://gitlab.com/istvanamolnar/whatistheoutput)
 
 If you are learning JavaScript, you will find this short quiz fun.
 
